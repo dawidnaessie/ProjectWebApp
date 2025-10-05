@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(180deg, #047857, #10B981);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  min-width: 320px;
+  min-height: 100vh;
+}
